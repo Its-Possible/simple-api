@@ -1,4 +1,4 @@
-# A simple Rest API in PHP 9.2
+# Uma simples Rest API em PHP 8.2
 
 ## Open Source Project
 
